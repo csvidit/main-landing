@@ -514,6 +514,8 @@ svg.active .svg-elem-15 {
   fill: rgb(255, 255, 255);
 }
 
-
+.btn-svg{
+	max-width: 20px;
+}
 
 
