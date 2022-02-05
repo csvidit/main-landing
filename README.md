@@ -2,6 +2,6 @@
 
 Main landing page for all of my major subdomains (eg. CS Portfolio, Writing Portfolio). 
 
-Hosted at [viditkhandelwal.com](https://viditkhandelwal.com) via GitHub pages for the time being.
+Hosted at [viditkhandelwal.com](https://viditkhandelwal.com) using Firebase and GitHub CI/CD Firebase Actions.
 
-&copy; 2021. All rights reserved.
+&copy; 2022. All rights reserved.
