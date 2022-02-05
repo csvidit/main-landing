@@ -1,6 +1,6 @@
 # main-landing
 
-Main landing page for all of my major subdomains (eg. CS Portfolio, Writing Portfolio). 
+Main landing page for all of my major subdomains (eg. CS Portfolio, Writing Portfolio). Uses Bootstrap.
 
 Live at [viditkhandelwal.com](https://viditkhandelwal.com) using Firebase Hosting and GitHub CI/CD Firebase Actions. May be available at other subdomains for testing/preview purposes. 
 
