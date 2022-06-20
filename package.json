@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "tilt.js": "^1.2.1"
   }
 }
