@@ -17,13 +17,17 @@
 		<link rel="stylesheet" href="https://unpkg.com/kursor/dist/kursor.css">
         <script src="https://unpkg.com/kursor"></script>
 
+		<script src="https://cdn.jsdelivr.net/npm/three@0.121.1/build/three.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/three@0.121.1/examples/js/controls/OrbitControls.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/simplex-noise/2.4.0/simplex-noise.min.js"></script>
+
 		<link href="ViditKhandelwalMattoneSimpleFavicon.ico" rel="icon">
 		<link href="ViditKhandelwalMattoneSimpleFavicon.webp" rel="apple-touch-icon">
 
   </head>
 
 	<body id="main-body">
-	
+	<div id="canvas_container particles-js">
   <div class = "vh-100 flex-column d-flex text-center align-items-center justify-content-center" style="padding: 20px;">
 		<div class="p-2 bd-highlight align-self-center noselect">
 			<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
@@ -108,7 +112,10 @@
 			</div>
 		</div>
   </div>
+</div>
 	<script src="script.js"></script>
+	<script src="tilt.js"></script>
+	<script src="particles.js"></script>
 </body>
 
 </html>
