@@ -1,9 +1,9 @@
 # main-landing
 
+**DEPRECATED**
+
 Main landing page for all of my major subdomains (eg. CS Portfolio, Writing Portfolio). Uses Bootstrap.
 
-Live at [viditkhandelwal.com](https://viditkhandelwal.com) using Firebase Hosting and GitHub CI/CD Firebase Actions. May be available at other subdomains for testing/preview purposes. 
-
-In case live website does not load, check [main-landing-1.viditkhandelwal.com](https://main-landing-1.viditkhandelwal.com), the testing subdomain. 
+Now only live at testing subdomain [main-landing-1.viditkhandelwal.com](https://main-landing-1.viditkhandelwal.com), using Firebase. 
 
 &copy; 2022. All rights reserved.
